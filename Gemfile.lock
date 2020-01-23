@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    autodesk (0.2.0)
+    autodesk (0.3.0)
       curb-fu
 
 GEM
